@@ -1,0 +1,8 @@
+{
+  "name": "GlowMatrix",
+  "description": "Enterprise-grade Global Skincare & Beauty Commerce Ecosystem with multi-role operations, AI skin routine engine, dynamic inventory, and real-time fulfillment tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
